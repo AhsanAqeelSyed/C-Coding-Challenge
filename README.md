@@ -7,7 +7,10 @@ On the mobile keypad each number represents several different letters, and when 
 2 → A 22 → B 222 → C
 To enter two consecutive characters from the same key, simply a pause/space is needed to separate them.
 
-# 🛠️ How to Run
+# Example
+“222 2 22” -> “CAB”.
+
+# How to Run
 
 1. Open terminal in the project folder
 2. Run:
