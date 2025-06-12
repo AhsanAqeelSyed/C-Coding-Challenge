@@ -83,7 +83,7 @@ namespace OldPhonePadApp
             return output.ToString();
         }
 
-        // Determines the correct letter from a series of key presses (e.g., "222" → "C")
+        // Determines the correct letter from a series of key presses 
         private static char GetCharFromBuffer(string buffer, Dictionary<char, string> keyMap)
         {
             if (string.IsNullOrEmpty(buffer)) return '?';
